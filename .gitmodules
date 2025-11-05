@@ -1,0 +1,3 @@
+[submodule "lint"]
+	path = lint
+	url = https://github.com/bareform/lint

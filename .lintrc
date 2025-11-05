@@ -1,0 +1,3 @@
+strip_end_of_file_newlines = True
+max_line_len = 120
+no_trailing_whitespaces = True
